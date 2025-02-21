@@ -1,0 +1,586 @@
+[
+  {
+    "sector": "111CA/US-NM",
+    "amount": 534186940.8865
+  },
+  {
+    "sector": "113FF/US-NM",
+    "amount": 3638096.8739
+  },
+  {
+    "sector": "211/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "212/US-NM",
+    "amount": 788625.1063
+  },
+  {
+    "sector": "213/US-NM",
+    "amount": 22358504.3677
+  },
+  {
+    "sector": "22/US-NM",
+    "amount": 1179417846.3577
+  },
+  {
+    "sector": "23/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "321/US-NM",
+    "amount": 1823055.2502
+  },
+  {
+    "sector": "327/US-NM",
+    "amount": 3748584.3881
+  },
+  {
+    "sector": "331/US-NM",
+    "amount": 156445.0272
+  },
+  {
+    "sector": "332/US-NM",
+    "amount": 10196.4227
+  },
+  {
+    "sector": "333/US-NM",
+    "amount": 139583.0518
+  },
+  {
+    "sector": "334/US-NM",
+    "amount": 27255544.5704
+  },
+  {
+    "sector": "335/US-NM",
+    "amount": 65763.0377
+  },
+  {
+    "sector": "3361MV/US-NM",
+    "amount": 34718.5308
+  },
+  {
+    "sector": "3364OT/US-NM",
+    "amount": 30262.2018
+  },
+  {
+    "sector": "337/US-NM",
+    "amount": 26234.5312
+  },
+  {
+    "sector": "339/US-NM",
+    "amount": 116234.7133
+  },
+  {
+    "sector": "311FT/US-NM",
+    "amount": 3297341.877
+  },
+  {
+    "sector": "313TT/US-NM",
+    "amount": 5515.5454
+  },
+  {
+    "sector": "315AL/US-NM",
+    "amount": 2891132.7295
+  },
+  {
+    "sector": "322/US-NM",
+    "amount": 3385666.6695
+  },
+  {
+    "sector": "323/US-NM",
+    "amount": 2762.7012
+  },
+  {
+    "sector": "324/US-NM",
+    "amount": 383277437.6494
+  },
+  {
+    "sector": "325/US-NM",
+    "amount": 107625.8044
+  },
+  {
+    "sector": "326/US-NM",
+    "amount": 11369.2871
+  },
+  {
+    "sector": "42/US-NM",
+    "amount": 1448342170.0402
+  },
+  {
+    "sector": "441/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "445/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "452/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "4A0/US-NM",
+    "amount": 9904456.1824
+  },
+  {
+    "sector": "481/US-NM",
+    "amount": 166014.1102
+  },
+  {
+    "sector": "482/US-NM",
+    "amount": 138838180.3858
+  },
+  {
+    "sector": "483/US-NM",
+    "amount": -1.9085e-06
+  },
+  {
+    "sector": "484/US-NM",
+    "amount": 449663069.7991
+  },
+  {
+    "sector": "485/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "486/US-NM",
+    "amount": 184664.609
+  },
+  {
+    "sector": "487OS/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "493/US-NM",
+    "amount": 230.8536
+  },
+  {
+    "sector": "511/US-NM",
+    "amount": 76612.3582
+  },
+  {
+    "sector": "512/US-NM",
+    "amount": 174983573.9787
+  },
+  {
+    "sector": "513/US-NM",
+    "amount": 31575325.3561
+  },
+  {
+    "sector": "514/US-NM",
+    "amount": 18028.5395
+  },
+  {
+    "sector": "521CI/US-NM",
+    "amount": 308110844.5557
+  },
+  {
+    "sector": "523/US-NM",
+    "amount": 64363.5275
+  },
+  {
+    "sector": "524/US-NM",
+    "amount": 1057858171.1448
+  },
+  {
+    "sector": "525/US-NM",
+    "amount": 87387.9793
+  },
+  {
+    "sector": "HS/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "ORE/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "532RL/US-NM",
+    "amount": 164555897.1801
+  },
+  {
+    "sector": "5411/US-NM",
+    "amount": 396690.4133
+  },
+  {
+    "sector": "5415/US-NM",
+    "amount": 316235.2408
+  },
+  {
+    "sector": "5412OP/US-NM",
+    "amount": 3609472477.0753
+  },
+  {
+    "sector": "55/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "561/US-NM",
+    "amount": 98384859.8856
+  },
+  {
+    "sector": "562/US-NM",
+    "amount": 238338202.8282
+  },
+  {
+    "sector": "61/US-NM",
+    "amount": 786767551.654
+  },
+  {
+    "sector": "621/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "622/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "623/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "624/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "711AS/US-NM",
+    "amount": 49544.5847
+  },
+  {
+    "sector": "713/US-NM",
+    "amount": 422040016.9022
+  },
+  {
+    "sector": "721/US-NM",
+    "amount": 114969012.6784
+  },
+  {
+    "sector": "722/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "81/US-NM",
+    "amount": 472445044.1573
+  },
+  {
+    "sector": "GFGD/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "GFGN/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "GFE/US-NM",
+    "amount": 299001468.0886
+  },
+  {
+    "sector": "GSLG/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "GSLE/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "Used/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "Other/US-NM",
+    "amount": 0
+  },
+  {
+    "sector": "111CA/RoUS",
+    "amount": 96218857884.6491
+  },
+  {
+    "sector": "113FF/RoUS",
+    "amount": -1991654883.7265
+  },
+  {
+    "sector": "211/RoUS",
+    "amount": -30903354964.8304
+  },
+  {
+    "sector": "212/RoUS",
+    "amount": 9442375056.3946
+  },
+  {
+    "sector": "213/RoUS",
+    "amount": 75988613222.4979
+  },
+  {
+    "sector": "22/RoUS",
+    "amount": 286264288981.927
+  },
+  {
+    "sector": "23/RoUS",
+    "amount": 1540686240880.51
+  },
+  {
+    "sector": "321/RoUS",
+    "amount": -7260521578.9633
+  },
+  {
+    "sector": "327/RoUS",
+    "amount": -7730619122.0264
+  },
+  {
+    "sector": "331/RoUS",
+    "amount": -43472482626.2098
+  },
+  {
+    "sector": "332/RoUS",
+    "amount": -12246942452.3605
+  },
+  {
+    "sector": "333/RoUS",
+    "amount": 165712707251.701
+  },
+  {
+    "sector": "334/RoUS",
+    "amount": 86503422552.917
+  },
+  {
+    "sector": "335/RoUS",
+    "amount": -1163186271.9751
+  },
+  {
+    "sector": "3361MV/RoUS",
+    "amount": 309683575028.845
+  },
+  {
+    "sector": "3364OT/RoUS",
+    "amount": 136855322459.121
+  },
+  {
+    "sector": "337/RoUS",
+    "amount": 37646372075.992
+  },
+  {
+    "sector": "339/RoUS",
+    "amount": 96133834151.0068
+  },
+  {
+    "sector": "311FT/RoUS",
+    "amount": 650851538756.963
+  },
+  {
+    "sector": "313TT/RoUS",
+    "amount": -16147897704.7351
+  },
+  {
+    "sector": "315AL/RoUS",
+    "amount": 10154974103.6096
+  },
+  {
+    "sector": "322/RoUS",
+    "amount": 18887463222.9166
+  },
+  {
+    "sector": "323/RoUS",
+    "amount": 3846475380.8647
+  },
+  {
+    "sector": "324/RoUS",
+    "amount": 132856449524.703
+  },
+  {
+    "sector": "325/RoUS",
+    "amount": 209575929725.94
+  },
+  {
+    "sector": "326/RoUS",
+    "amount": 3611178307.2331
+  },
+  {
+    "sector": "42/RoUS",
+    "amount": 1154251246664.04
+  },
+  {
+    "sector": "441/RoUS",
+    "amount": 205654508643.858
+  },
+  {
+    "sector": "445/RoUS",
+    "amount": 248846526300.538
+  },
+  {
+    "sector": "452/RoUS",
+    "amount": 233895838473.229
+  },
+  {
+    "sector": "4A0/RoUS",
+    "amount": 939068756900.393
+  },
+  {
+    "sector": "481/RoUS",
+    "amount": 65782021017.1909
+  },
+  {
+    "sector": "482/RoUS",
+    "amount": 23355141280.9095
+  },
+  {
+    "sector": "483/RoUS",
+    "amount": 30919554867.5545
+  },
+  {
+    "sector": "484/RoUS",
+    "amount": 166045191535.313
+  },
+  {
+    "sector": "485/RoUS",
+    "amount": 27474048939.801
+  },
+  {
+    "sector": "486/RoUS",
+    "amount": 13248207184.643
+  },
+  {
+    "sector": "487OS/RoUS",
+    "amount": 40731562183.8779
+  },
+  {
+    "sector": "493/RoUS",
+    "amount": 255386725.5472
+  },
+  {
+    "sector": "511/RoUS",
+    "amount": 291964350597.247
+  },
+  {
+    "sector": "512/RoUS",
+    "amount": 59244077174.1564
+  },
+  {
+    "sector": "513/RoUS",
+    "amount": 386683563444.664
+  },
+  {
+    "sector": "514/RoUS",
+    "amount": 119950448169.17
+  },
+  {
+    "sector": "521CI/RoUS",
+    "amount": 371002735347.523
+  },
+  {
+    "sector": "523/RoUS",
+    "amount": 344173879944.042
+  },
+  {
+    "sector": "524/RoUS",
+    "amount": 409810430015.783
+  },
+  {
+    "sector": "525/RoUS",
+    "amount": 168369957552.223
+  },
+  {
+    "sector": "HS/RoUS",
+    "amount": 2300463124198.71
+  },
+  {
+    "sector": "ORE/RoUS",
+    "amount": 183225509348.145
+  },
+  {
+    "sector": "532RL/RoUS",
+    "amount": 191199650623.707
+  },
+  {
+    "sector": "5411/RoUS",
+    "amount": 152127512744.583
+  },
+  {
+    "sector": "5415/RoUS",
+    "amount": 331875723283.876
+  },
+  {
+    "sector": "5412OP/RoUS",
+    "amount": 861931780732.33
+  },
+  {
+    "sector": "55/RoUS",
+    "amount": 2864506265.9579
+  },
+  {
+    "sector": "561/RoUS",
+    "amount": 53124876081.5676
+  },
+  {
+    "sector": "562/RoUS",
+    "amount": 29508194132.9595
+  },
+  {
+    "sector": "61/RoUS",
+    "amount": 357578522410.727
+  },
+  {
+    "sector": "621/RoUS",
+    "amount": 1083190582275.37
+  },
+  {
+    "sector": "622/RoUS",
+    "amount": 1139712368263.98
+  },
+  {
+    "sector": "623/RoUS",
+    "amount": 255495810046.842
+  },
+  {
+    "sector": "624/RoUS",
+    "amount": 233051780445.903
+  },
+  {
+    "sector": "711AS/RoUS",
+    "amount": 45304293487.4988
+  },
+  {
+    "sector": "713/RoUS",
+    "amount": 137255717586.72
+  },
+  {
+    "sector": "721/RoUS",
+    "amount": 85795049893.1603
+  },
+  {
+    "sector": "722/RoUS",
+    "amount": 695489715024.471
+  },
+  {
+    "sector": "81/RoUS",
+    "amount": 593283478161.344
+  },
+  {
+    "sector": "GFGD/RoUS",
+    "amount": 692248354402.475
+  },
+  {
+    "sector": "GFGN/RoUS",
+    "amount": 453718810802.717
+  },
+  {
+    "sector": "GFE/RoUS",
+    "amount": 18789645880.4883
+  },
+  {
+    "sector": "GSLG/RoUS",
+    "amount": 1902055039323.42
+  },
+  {
+    "sector": "GSLE/RoUS",
+    "amount": 72328713272.6433
+  },
+  {
+    "sector": "Used/RoUS",
+    "amount": -40365277683.9051
+  },
+  {
+    "sector": "Other/RoUS",
+    "amount": -119184530827.752
+  }
+]

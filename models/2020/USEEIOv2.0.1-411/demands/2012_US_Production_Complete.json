@@ -1,0 +1,1646 @@
+[
+  {
+    "sector": "1111A0/US",
+    "amount": 17770000000
+  },
+  {
+    "sector": "1111B0/US",
+    "amount": 8668000000
+  },
+  {
+    "sector": "111200/US",
+    "amount": 10746000000
+  },
+  {
+    "sector": "111300/US",
+    "amount": 8886000000
+  },
+  {
+    "sector": "111400/US",
+    "amount": 8438000000
+  },
+  {
+    "sector": "111900/US",
+    "amount": 5888000000
+  },
+  {
+    "sector": "112120/US",
+    "amount": 247000000
+  },
+  {
+    "sector": "1121A0/US",
+    "amount": -1312000000
+  },
+  {
+    "sector": "112300/US",
+    "amount": 5274000000
+  },
+  {
+    "sector": "112A00/US",
+    "amount": 6539000000
+  },
+  {
+    "sector": "113000/US",
+    "amount": -1740000000
+  },
+  {
+    "sector": "114000/US",
+    "amount": -2093000000
+  },
+  {
+    "sector": "115000/US",
+    "amount": 212000000
+  },
+  {
+    "sector": "211000/US",
+    "amount": -330073000000
+  },
+  {
+    "sector": "212100/US",
+    "amount": 9151000000
+  },
+  {
+    "sector": "212230/US",
+    "amount": 3298000000
+  },
+  {
+    "sector": "2122A0/US",
+    "amount": 10884000000
+  },
+  {
+    "sector": "212310/US",
+    "amount": 273000000
+  },
+  {
+    "sector": "2123A0/US",
+    "amount": 695000000
+  },
+  {
+    "sector": "213111/US",
+    "amount": 47553000000
+  },
+  {
+    "sector": "21311A/US",
+    "amount": 111041000000
+  },
+  {
+    "sector": "221100/US",
+    "amount": 163378000000
+  },
+  {
+    "sector": "221200/US",
+    "amount": 44734000000
+  },
+  {
+    "sector": "221300/US",
+    "amount": 35414000000
+  },
+  {
+    "sector": "233210/US",
+    "amount": 46153000000
+  },
+  {
+    "sector": "233262/US",
+    "amount": 81565000000
+  },
+  {
+    "sector": "230301/US",
+    "amount": 83000000
+  },
+  {
+    "sector": "230302/US",
+    "amount": 16000000
+  },
+  {
+    "sector": "2332A0/US",
+    "amount": 80889000000
+  },
+  {
+    "sector": "233412/US",
+    "amount": 27740000000
+  },
+  {
+    "sector": "2334A0/US",
+    "amount": 163963000000
+  },
+  {
+    "sector": "233230/US",
+    "amount": 48817000000
+  },
+  {
+    "sector": "2332D0/US",
+    "amount": 93707000000
+  },
+  {
+    "sector": "233240/US",
+    "amount": 113571000000
+  },
+  {
+    "sector": "233411/US",
+    "amount": 132995000000
+  },
+  {
+    "sector": "2332C0/US",
+    "amount": 122037000000
+  },
+  {
+    "sector": "321100/US",
+    "amount": -1360000000
+  },
+  {
+    "sector": "321200/US",
+    "amount": -3111000000
+  },
+  {
+    "sector": "321910/US",
+    "amount": -1101000000
+  },
+  {
+    "sector": "3219A0/US",
+    "amount": 5305000000
+  },
+  {
+    "sector": "327100/US",
+    "amount": -2671000000
+  },
+  {
+    "sector": "327200/US",
+    "amount": 648000000
+  },
+  {
+    "sector": "327310/US",
+    "amount": -275000000
+  },
+  {
+    "sector": "327320/US",
+    "amount": 354000000
+  },
+  {
+    "sector": "327330/US",
+    "amount": 105000000
+  },
+  {
+    "sector": "327390/US",
+    "amount": -444000000
+  },
+  {
+    "sector": "327400/US",
+    "amount": 128000000
+  },
+  {
+    "sector": "327910/US",
+    "amount": -527000000
+  },
+  {
+    "sector": "327991/US",
+    "amount": 425000000
+  },
+  {
+    "sector": "327992/US",
+    "amount": 91000000
+  },
+  {
+    "sector": "327993/US",
+    "amount": 265000000
+  },
+  {
+    "sector": "327999/US",
+    "amount": 31000000
+  },
+  {
+    "sector": "331110/US",
+    "amount": -22026000000
+  },
+  {
+    "sector": "331200/US",
+    "amount": -2748000000
+  },
+  {
+    "sector": "331313/US",
+    "amount": -5486000000
+  },
+  {
+    "sector": "33131B/US",
+    "amount": 630000000
+  },
+  {
+    "sector": "331410/US",
+    "amount": -15876000000
+  },
+  {
+    "sector": "331420/US",
+    "amount": -587000000
+  },
+  {
+    "sector": "331490/US",
+    "amount": 1344000000
+  },
+  {
+    "sector": "331510/US",
+    "amount": 346000000
+  },
+  {
+    "sector": "331520/US",
+    "amount": 184000000
+  },
+  {
+    "sector": "332114/US",
+    "amount": 150000000
+  },
+  {
+    "sector": "33211A/US",
+    "amount": 197000000
+  },
+  {
+    "sector": "332119/US",
+    "amount": 648000000
+  },
+  {
+    "sector": "332200/US",
+    "amount": 1108000000
+  },
+  {
+    "sector": "332310/US",
+    "amount": -508000000
+  },
+  {
+    "sector": "332320/US",
+    "amount": 908000000
+  },
+  {
+    "sector": "332410/US",
+    "amount": 3643000000
+  },
+  {
+    "sector": "332420/US",
+    "amount": 4263000000
+  },
+  {
+    "sector": "332430/US",
+    "amount": 549000000
+  },
+  {
+    "sector": "332500/US",
+    "amount": -3685000000
+  },
+  {
+    "sector": "332600/US",
+    "amount": -580000000
+  },
+  {
+    "sector": "332710/US",
+    "amount": 1528000000
+  },
+  {
+    "sector": "332720/US",
+    "amount": -1757000000
+  },
+  {
+    "sector": "332800/US",
+    "amount": 217000000
+  },
+  {
+    "sector": "332913/US",
+    "amount": -692000000
+  },
+  {
+    "sector": "33291A/US",
+    "amount": -3018000000
+  },
+  {
+    "sector": "332991/US",
+    "amount": -1617000000
+  },
+  {
+    "sector": "332996/US",
+    "amount": 1013000000
+  },
+  {
+    "sector": "33299A/US",
+    "amount": 7294000000
+  },
+  {
+    "sector": "332999/US",
+    "amount": 220000000
+  },
+  {
+    "sector": "333111/US",
+    "amount": 28928000000
+  },
+  {
+    "sector": "333112/US",
+    "amount": 5870000000
+  },
+  {
+    "sector": "333120/US",
+    "amount": 33331000000
+  },
+  {
+    "sector": "333130/US",
+    "amount": 27463000000
+  },
+  {
+    "sector": "333242/US",
+    "amount": 8286000000
+  },
+  {
+    "sector": "33329A/US",
+    "amount": 15646000000
+  },
+  {
+    "sector": "333314/US",
+    "amount": 2486000000
+  },
+  {
+    "sector": "333316/US",
+    "amount": 1635000000
+  },
+  {
+    "sector": "333318/US",
+    "amount": 9012000000
+  },
+  {
+    "sector": "333414/US",
+    "amount": 924000000
+  },
+  {
+    "sector": "333415/US",
+    "amount": 4768000000
+  },
+  {
+    "sector": "333413/US",
+    "amount": 1828000000
+  },
+  {
+    "sector": "333511/US",
+    "amount": 4952000000
+  },
+  {
+    "sector": "333514/US",
+    "amount": 7018000000
+  },
+  {
+    "sector": "333517/US",
+    "amount": 5711000000
+  },
+  {
+    "sector": "33351B/US",
+    "amount": 2167000000
+  },
+  {
+    "sector": "333611/US",
+    "amount": 14914000000
+  },
+  {
+    "sector": "333612/US",
+    "amount": -2119000000
+  },
+  {
+    "sector": "333613/US",
+    "amount": -1055000000
+  },
+  {
+    "sector": "333618/US",
+    "amount": 1591000000
+  },
+  {
+    "sector": "333912/US",
+    "amount": 7161000000
+  },
+  {
+    "sector": "33391A/US",
+    "amount": 10668000000
+  },
+  {
+    "sector": "333920/US",
+    "amount": 20803000000
+  },
+  {
+    "sector": "333991/US",
+    "amount": 2689000000
+  },
+  {
+    "sector": "333993/US",
+    "amount": 2969000000
+  },
+  {
+    "sector": "333994/US",
+    "amount": 2005000000
+  },
+  {
+    "sector": "33399A/US",
+    "amount": 12825000000
+  },
+  {
+    "sector": "33399B/US",
+    "amount": -1995000000
+  },
+  {
+    "sector": "334111/US",
+    "amount": 7053000000
+  },
+  {
+    "sector": "334112/US",
+    "amount": 6789000000
+  },
+  {
+    "sector": "334118/US",
+    "amount": -1800000000
+  },
+  {
+    "sector": "334210/US",
+    "amount": -98000000
+  },
+  {
+    "sector": "334220/US",
+    "amount": 6574000000
+  },
+  {
+    "sector": "334290/US",
+    "amount": 1244000000
+  },
+  {
+    "sector": "334413/US",
+    "amount": -1823000000
+  },
+  {
+    "sector": "334418/US",
+    "amount": 3851000000
+  },
+  {
+    "sector": "33441A/US",
+    "amount": -6726000000
+  },
+  {
+    "sector": "334510/US",
+    "amount": 22475000000
+  },
+  {
+    "sector": "334511/US",
+    "amount": 33061000000
+  },
+  {
+    "sector": "334512/US",
+    "amount": -624000000
+  },
+  {
+    "sector": "334513/US",
+    "amount": 7417000000
+  },
+  {
+    "sector": "334514/US",
+    "amount": 1631000000
+  },
+  {
+    "sector": "334515/US",
+    "amount": 7466000000
+  },
+  {
+    "sector": "334516/US",
+    "amount": 11585000000
+  },
+  {
+    "sector": "334517/US",
+    "amount": 7631000000
+  },
+  {
+    "sector": "33451A/US",
+    "amount": 7954000000
+  },
+  {
+    "sector": "334300/US",
+    "amount": -1324000000
+  },
+  {
+    "sector": "334610/US",
+    "amount": -192000000
+  },
+  {
+    "sector": "335110/US",
+    "amount": -678000000
+  },
+  {
+    "sector": "335120/US",
+    "amount": -3580000000
+  },
+  {
+    "sector": "335210/US",
+    "amount": 659000000
+  },
+  {
+    "sector": "335221/US",
+    "amount": 3851000000
+  },
+  {
+    "sector": "335222/US",
+    "amount": 3161000000
+  },
+  {
+    "sector": "335224/US",
+    "amount": 3307000000
+  },
+  {
+    "sector": "335228/US",
+    "amount": 1170000000
+  },
+  {
+    "sector": "335311/US",
+    "amount": 3919000000
+  },
+  {
+    "sector": "335312/US",
+    "amount": -1943000000
+  },
+  {
+    "sector": "335313/US",
+    "amount": 4553000000
+  },
+  {
+    "sector": "335314/US",
+    "amount": -895000000
+  },
+  {
+    "sector": "335911/US",
+    "amount": 1477000000
+  },
+  {
+    "sector": "335912/US",
+    "amount": 4251000000
+  },
+  {
+    "sector": "335920/US",
+    "amount": -1227000000
+  },
+  {
+    "sector": "335930/US",
+    "amount": -284000000
+  },
+  {
+    "sector": "335991/US",
+    "amount": 301000000
+  },
+  {
+    "sector": "335999/US",
+    "amount": 4735000000
+  },
+  {
+    "sector": "336111/US",
+    "amount": 55357000000
+  },
+  {
+    "sector": "336112/US",
+    "amount": 173950000000
+  },
+  {
+    "sector": "336120/US",
+    "amount": 29490000000
+  },
+  {
+    "sector": "336211/US",
+    "amount": 2561000000
+  },
+  {
+    "sector": "336212/US",
+    "amount": 7546000000
+  },
+  {
+    "sector": "336213/US",
+    "amount": 2422000000
+  },
+  {
+    "sector": "336214/US",
+    "amount": 8354000000
+  },
+  {
+    "sector": "336310/US",
+    "amount": -9171000000
+  },
+  {
+    "sector": "336320/US",
+    "amount": -7420000000
+  },
+  {
+    "sector": "336350/US",
+    "amount": -9602000000
+  },
+  {
+    "sector": "336360/US",
+    "amount": -3321000000
+  },
+  {
+    "sector": "336370/US",
+    "amount": 1135000000
+  },
+  {
+    "sector": "336390/US",
+    "amount": -20000000
+  },
+  {
+    "sector": "3363A0/US",
+    "amount": -5842000000
+  },
+  {
+    "sector": "336411/US",
+    "amount": 85210000000
+  },
+  {
+    "sector": "336412/US",
+    "amount": 10685000000
+  },
+  {
+    "sector": "336413/US",
+    "amount": 9524000000
+  },
+  {
+    "sector": "336414/US",
+    "amount": 14585000000
+  },
+  {
+    "sector": "33641A/US",
+    "amount": 1408000000
+  },
+  {
+    "sector": "336500/US",
+    "amount": 11420000000
+  },
+  {
+    "sector": "336611/US",
+    "amount": 15672000000
+  },
+  {
+    "sector": "336612/US",
+    "amount": 6484000000
+  },
+  {
+    "sector": "336991/US",
+    "amount": 4788000000
+  },
+  {
+    "sector": "336992/US",
+    "amount": 4406000000
+  },
+  {
+    "sector": "336999/US",
+    "amount": 5722000000
+  },
+  {
+    "sector": "337110/US",
+    "amount": 319000000
+  },
+  {
+    "sector": "337121/US",
+    "amount": 8585000000
+  },
+  {
+    "sector": "337122/US",
+    "amount": 3742000000
+  },
+  {
+    "sector": "337127/US",
+    "amount": 4001000000
+  },
+  {
+    "sector": "33712N/US",
+    "amount": 2292000000
+  },
+  {
+    "sector": "337215/US",
+    "amount": 2077000000
+  },
+  {
+    "sector": "33721A/US",
+    "amount": 10152000000
+  },
+  {
+    "sector": "337900/US",
+    "amount": 9071000000
+  },
+  {
+    "sector": "339112/US",
+    "amount": 21504000000
+  },
+  {
+    "sector": "339113/US",
+    "amount": 10313000000
+  },
+  {
+    "sector": "339114/US",
+    "amount": 1467000000
+  },
+  {
+    "sector": "339115/US",
+    "amount": 7089000000
+  },
+  {
+    "sector": "339116/US",
+    "amount": 39000000
+  },
+  {
+    "sector": "339910/US",
+    "amount": 9227000000
+  },
+  {
+    "sector": "339920/US",
+    "amount": 8431000000
+  },
+  {
+    "sector": "339930/US",
+    "amount": 1254000000
+  },
+  {
+    "sector": "339940/US",
+    "amount": 1085000000
+  },
+  {
+    "sector": "339950/US",
+    "amount": 7245000000
+  },
+  {
+    "sector": "339990/US",
+    "amount": 10464000000
+  },
+  {
+    "sector": "311111/US",
+    "amount": 15633000000
+  },
+  {
+    "sector": "311119/US",
+    "amount": 4033000000
+  },
+  {
+    "sector": "311210/US",
+    "amount": 4973000000
+  },
+  {
+    "sector": "311221/US",
+    "amount": 1870000000
+  },
+  {
+    "sector": "311225/US",
+    "amount": 5851000000
+  },
+  {
+    "sector": "311224/US",
+    "amount": 1926000000
+  },
+  {
+    "sector": "311230/US",
+    "amount": 9217000000
+  },
+  {
+    "sector": "311300/US",
+    "amount": 18010000000
+  },
+  {
+    "sector": "311410/US",
+    "amount": 23553000000
+  },
+  {
+    "sector": "311420/US",
+    "amount": 24068000000
+  },
+  {
+    "sector": "311513/US",
+    "amount": 14458000000
+  },
+  {
+    "sector": "311514/US",
+    "amount": 10417000000
+  },
+  {
+    "sector": "31151A/US",
+    "amount": 23965000000
+  },
+  {
+    "sector": "311520/US",
+    "amount": 2150000000
+  },
+  {
+    "sector": "311615/US",
+    "amount": 38144000000
+  },
+  {
+    "sector": "31161A/US",
+    "amount": 75859000000
+  },
+  {
+    "sector": "311700/US",
+    "amount": 1926000000
+  },
+  {
+    "sector": "311810/US",
+    "amount": 40544000000
+  },
+  {
+    "sector": "3118A0/US",
+    "amount": 23539000000
+  },
+  {
+    "sector": "311910/US",
+    "amount": 28326000000
+  },
+  {
+    "sector": "311920/US",
+    "amount": 6163000000
+  },
+  {
+    "sector": "311930/US",
+    "amount": -2537000000
+  },
+  {
+    "sector": "311940/US",
+    "amount": 10429000000
+  },
+  {
+    "sector": "311990/US",
+    "amount": 17719000000
+  },
+  {
+    "sector": "312110/US",
+    "amount": 39643000000
+  },
+  {
+    "sector": "312120/US",
+    "amount": 23055000000
+  },
+  {
+    "sector": "312130/US",
+    "amount": 11250000000
+  },
+  {
+    "sector": "312140/US",
+    "amount": 7483000000
+  },
+  {
+    "sector": "312200/US",
+    "amount": 53410000000
+  },
+  {
+    "sector": "313100/US",
+    "amount": 1014000000
+  },
+  {
+    "sector": "313200/US",
+    "amount": -1122000000
+  },
+  {
+    "sector": "313300/US",
+    "amount": 134000000
+  },
+  {
+    "sector": "314110/US",
+    "amount": 6064000000
+  },
+  {
+    "sector": "314120/US",
+    "amount": -2103000000
+  },
+  {
+    "sector": "314900/US",
+    "amount": -826000000
+  },
+  {
+    "sector": "315000/US",
+    "amount": 6174000000
+  },
+  {
+    "sector": "316000/US",
+    "amount": 2327000000
+  },
+  {
+    "sector": "322110/US",
+    "amount": 2107000000
+  },
+  {
+    "sector": "322120/US",
+    "amount": 13631000000
+  },
+  {
+    "sector": "322130/US",
+    "amount": -1727000000
+  },
+  {
+    "sector": "322210/US",
+    "amount": 1734000000
+  },
+  {
+    "sector": "322220/US",
+    "amount": 1232000000
+  },
+  {
+    "sector": "322230/US",
+    "amount": 875000000
+  },
+  {
+    "sector": "322291/US",
+    "amount": 5672000000
+  },
+  {
+    "sector": "322299/US",
+    "amount": 256000000
+  },
+  {
+    "sector": "323110/US",
+    "amount": 5374000000
+  },
+  {
+    "sector": "323120/US",
+    "amount": -90000000
+  },
+  {
+    "sector": "324110/US",
+    "amount": 293775000000
+  },
+  {
+    "sector": "324121/US",
+    "amount": 140000000
+  },
+  {
+    "sector": "324122/US",
+    "amount": 157000000
+  },
+  {
+    "sector": "324190/US",
+    "amount": 8952000000
+  },
+  {
+    "sector": "325110/US",
+    "amount": -2162000000
+  },
+  {
+    "sector": "325120/US",
+    "amount": 425000000
+  },
+  {
+    "sector": "325130/US",
+    "amount": 415000000
+  },
+  {
+    "sector": "325180/US",
+    "amount": 3586000000
+  },
+  {
+    "sector": "325190/US",
+    "amount": 6493000000
+  },
+  {
+    "sector": "325211/US",
+    "amount": 14771000000
+  },
+  {
+    "sector": "3252A0/US",
+    "amount": 1674000000
+  },
+  {
+    "sector": "325411/US",
+    "amount": -272000000
+  },
+  {
+    "sector": "325412/US",
+    "amount": 101660000000
+  },
+  {
+    "sector": "325413/US",
+    "amount": 7000000
+  },
+  {
+    "sector": "325414/US",
+    "amount": -8809000000
+  },
+  {
+    "sector": "325310/US",
+    "amount": -7716000000
+  },
+  {
+    "sector": "325320/US",
+    "amount": 3074000000
+  },
+  {
+    "sector": "325510/US",
+    "amount": 2998000000
+  },
+  {
+    "sector": "325520/US",
+    "amount": 2467000000
+  },
+  {
+    "sector": "325610/US",
+    "amount": 23502000000
+  },
+  {
+    "sector": "325620/US",
+    "amount": 27758000000
+  },
+  {
+    "sector": "325910/US",
+    "amount": 989000000
+  },
+  {
+    "sector": "3259A0/US",
+    "amount": 4402000000
+  },
+  {
+    "sector": "326110/US",
+    "amount": 3158000000
+  },
+  {
+    "sector": "326120/US",
+    "amount": 711000000
+  },
+  {
+    "sector": "326130/US",
+    "amount": 30000000
+  },
+  {
+    "sector": "326140/US",
+    "amount": 604000000
+  },
+  {
+    "sector": "326150/US",
+    "amount": 597000000
+  },
+  {
+    "sector": "326160/US",
+    "amount": -43000000
+  },
+  {
+    "sector": "326190/US",
+    "amount": 4693000000
+  },
+  {
+    "sector": "326210/US",
+    "amount": 3217000000
+  },
+  {
+    "sector": "326220/US",
+    "amount": -549000000
+  },
+  {
+    "sector": "326290/US",
+    "amount": 118000000
+  },
+  {
+    "sector": "423100/US",
+    "amount": 61956000000
+  },
+  {
+    "sector": "423400/US",
+    "amount": 134226000000
+  },
+  {
+    "sector": "423600/US",
+    "amount": 86894000000
+  },
+  {
+    "sector": "423800/US",
+    "amount": 96322000000
+  },
+  {
+    "sector": "423A00/US",
+    "amount": 98276000000
+  },
+  {
+    "sector": "424200/US",
+    "amount": 93114000000
+  },
+  {
+    "sector": "424400/US",
+    "amount": 76315000000
+  },
+  {
+    "sector": "424700/US",
+    "amount": 73457000000
+  },
+  {
+    "sector": "424A00/US",
+    "amount": 150430000000
+  },
+  {
+    "sector": "425000/US",
+    "amount": 21445000000
+  },
+  {
+    "sector": "4200ID/US",
+    "amount": 33503000000
+  },
+  {
+    "sector": "441000/US",
+    "amount": 138820000000
+  },
+  {
+    "sector": "445000/US",
+    "amount": 186954000000
+  },
+  {
+    "sector": "452000/US",
+    "amount": 191841000000
+  },
+  {
+    "sector": "444000/US",
+    "amount": 42784000000
+  },
+  {
+    "sector": "446000/US",
+    "amount": 95517000000
+  },
+  {
+    "sector": "447000/US",
+    "amount": 58165000000
+  },
+  {
+    "sector": "448000/US",
+    "amount": 121927000000
+  },
+  {
+    "sector": "454000/US",
+    "amount": 149643000000
+  },
+  {
+    "sector": "4B0000/US",
+    "amount": 177863000000
+  },
+  {
+    "sector": "481000/US",
+    "amount": 125620000000
+  },
+  {
+    "sector": "482000/US",
+    "amount": 24040000000
+  },
+  {
+    "sector": "483000/US",
+    "amount": 33773000000
+  },
+  {
+    "sector": "484000/US",
+    "amount": 132799000000
+  },
+  {
+    "sector": "485000/US",
+    "amount": 33220000000
+  },
+  {
+    "sector": "486000/US",
+    "amount": 8381000000
+  },
+  {
+    "sector": "48A000/US",
+    "amount": 13890000000
+  },
+  {
+    "sector": "492000/US",
+    "amount": 17378000000
+  },
+  {
+    "sector": "493000/US",
+    "amount": 315000000
+  },
+  {
+    "sector": "511110/US",
+    "amount": 8047000000
+  },
+  {
+    "sector": "511120/US",
+    "amount": 8548000000
+  },
+  {
+    "sector": "511130/US",
+    "amount": 21405000000
+  },
+  {
+    "sector": "5111A0/US",
+    "amount": 6548000000
+  },
+  {
+    "sector": "511200/US",
+    "amount": 129358000000
+  },
+  {
+    "sector": "512100/US",
+    "amount": 60373000000
+  },
+  {
+    "sector": "512200/US",
+    "amount": 8609000000
+  },
+  {
+    "sector": "515100/US",
+    "amount": 16662000000
+  },
+  {
+    "sector": "515200/US",
+    "amount": 13153000000
+  },
+  {
+    "sector": "517110/US",
+    "amount": 190676000000
+  },
+  {
+    "sector": "517210/US",
+    "amount": 110704000000
+  },
+  {
+    "sector": "517A00/US",
+    "amount": 8034000000
+  },
+  {
+    "sector": "518200/US",
+    "amount": 34144000000
+  },
+  {
+    "sector": "519130/US",
+    "amount": 13304000000
+  },
+  {
+    "sector": "5191A0/US",
+    "amount": 4823000000
+  },
+  {
+    "sector": "522A00/US",
+    "amount": 54722000000
+  },
+  {
+    "sector": "52A000/US",
+    "amount": 176181000000
+  },
+  {
+    "sector": "523900/US",
+    "amount": 202829000000
+  },
+  {
+    "sector": "523A00/US",
+    "amount": 47827000000
+  },
+  {
+    "sector": "524113/US",
+    "amount": 79206000000
+  },
+  {
+    "sector": "5241XX/US",
+    "amount": 185425000000
+  },
+  {
+    "sector": "524200/US",
+    "amount": 0
+  },
+  {
+    "sector": "525000/US",
+    "amount": 128515000000
+  },
+  {
+    "sector": "531HSO/US",
+    "amount": 1276281000000
+  },
+  {
+    "sector": "531HST/US",
+    "amount": 425960000000
+  },
+  {
+    "sector": "531ORE/US",
+    "amount": 105663000000
+  },
+  {
+    "sector": "532100/US",
+    "amount": 52869000000
+  },
+  {
+    "sector": "532400/US",
+    "amount": 5359000000
+  },
+  {
+    "sector": "532A00/US",
+    "amount": 21099000000
+  },
+  {
+    "sector": "533000/US",
+    "amount": 62868000000
+  },
+  {
+    "sector": "541100/US",
+    "amount": 113825000000
+  },
+  {
+    "sector": "541511/US",
+    "amount": 197189000000
+  },
+  {
+    "sector": "541512/US",
+    "amount": 17713000000
+  },
+  {
+    "sector": "54151A/US",
+    "amount": -807000000
+  },
+  {
+    "sector": "541200/US",
+    "amount": 14366000000
+  },
+  {
+    "sector": "541300/US",
+    "amount": 63501000000
+  },
+  {
+    "sector": "541610/US",
+    "amount": 11095000000
+  },
+  {
+    "sector": "5416A0/US",
+    "amount": 166000000
+  },
+  {
+    "sector": "541700/US",
+    "amount": 466476000000
+  },
+  {
+    "sector": "541800/US",
+    "amount": 7153000000
+  },
+  {
+    "sector": "541400/US",
+    "amount": 3755000000
+  },
+  {
+    "sector": "541920/US",
+    "amount": 7613000000
+  },
+  {
+    "sector": "541940/US",
+    "amount": 22482000000
+  },
+  {
+    "sector": "5419A0/US",
+    "amount": 1006000000
+  },
+  {
+    "sector": "550000/US",
+    "amount": 3224000000
+  },
+  {
+    "sector": "561300/US",
+    "amount": 367000000
+  },
+  {
+    "sector": "561700/US",
+    "amount": 14793000000
+  },
+  {
+    "sector": "561100/US",
+    "amount": 0
+  },
+  {
+    "sector": "561200/US",
+    "amount": 0
+  },
+  {
+    "sector": "561400/US",
+    "amount": 4189000000
+  },
+  {
+    "sector": "561500/US",
+    "amount": 16290000000
+  },
+  {
+    "sector": "561600/US",
+    "amount": 9168000000
+  },
+  {
+    "sector": "561900/US",
+    "amount": 3686000000
+  },
+  {
+    "sector": "562111/US",
+    "amount": 17154340000
+  },
+  {
+    "sector": "562HAZ/US",
+    "amount": 178386200
+  },
+  {
+    "sector": "562212/US",
+    "amount": 2296857000
+  },
+  {
+    "sector": "562213/US",
+    "amount": 31318900
+  },
+  {
+    "sector": "562910/US",
+    "amount": 1084623000
+  },
+  {
+    "sector": "562920/US",
+    "amount": 730570000
+  },
+  {
+    "sector": "562OTH/US",
+    "amount": 1758494000
+  },
+  {
+    "sector": "611100/US",
+    "amount": 41383000000
+  },
+  {
+    "sector": "611A00/US",
+    "amount": 204622000000
+  },
+  {
+    "sector": "611B00/US",
+    "amount": 55137000000
+  },
+  {
+    "sector": "621100/US",
+    "amount": 414538000000
+  },
+  {
+    "sector": "621200/US",
+    "amount": 107155000000
+  },
+  {
+    "sector": "621300/US",
+    "amount": 80036000000
+  },
+  {
+    "sector": "621400/US",
+    "amount": 101758000000
+  },
+  {
+    "sector": "621500/US",
+    "amount": 34977000000
+  },
+  {
+    "sector": "621600/US",
+    "amount": 87311000000
+  },
+  {
+    "sector": "621900/US",
+    "amount": 22480000000
+  },
+  {
+    "sector": "622000/US",
+    "amount": 851640000000
+  },
+  {
+    "sector": "623A00/US",
+    "amount": 166284000000
+  },
+  {
+    "sector": "623B00/US",
+    "amount": 40587000000
+  },
+  {
+    "sector": "624100/US",
+    "amount": 80482000000
+  },
+  {
+    "sector": "624400/US",
+    "amount": 46979000000
+  },
+  {
+    "sector": "624A00/US",
+    "amount": 43641000000
+  },
+  {
+    "sector": "711100/US",
+    "amount": 23832000000
+  },
+  {
+    "sector": "711200/US",
+    "amount": 15883000000
+  },
+  {
+    "sector": "711500/US",
+    "amount": 969000000
+  },
+  {
+    "sector": "711A00/US",
+    "amount": 11661000000
+  },
+  {
+    "sector": "712000/US",
+    "amount": 14429000000
+  },
+  {
+    "sector": "713100/US",
+    "amount": 11847000000
+  },
+  {
+    "sector": "713200/US",
+    "amount": 89840000000
+  },
+  {
+    "sector": "713900/US",
+    "amount": 61115000000
+  },
+  {
+    "sector": "721000/US",
+    "amount": 123944000000
+  },
+  {
+    "sector": "722110/US",
+    "amount": 214469000000
+  },
+  {
+    "sector": "722211/US",
+    "amount": 273090000000
+  },
+  {
+    "sector": "722A00/US",
+    "amount": 85095000000
+  },
+  {
+    "sector": "811100/US",
+    "amount": 138101000000
+  },
+  {
+    "sector": "811200/US",
+    "amount": 4932000000
+  },
+  {
+    "sector": "811300/US",
+    "amount": 15000000
+  },
+  {
+    "sector": "811400/US",
+    "amount": 14188000000
+  },
+  {
+    "sector": "812100/US",
+    "amount": 67356000000
+  },
+  {
+    "sector": "812200/US",
+    "amount": 19219000000
+  },
+  {
+    "sector": "812300/US",
+    "amount": 11887000000
+  },
+  {
+    "sector": "812900/US",
+    "amount": 55872000000
+  },
+  {
+    "sector": "813100/US",
+    "amount": 82389000000
+  },
+  {
+    "sector": "813A00/US",
+    "amount": 43601000000
+  },
+  {
+    "sector": "813B00/US",
+    "amount": 55513000000
+  },
+  {
+    "sector": "814000/US",
+    "amount": 17330000000
+  },
+  {
+    "sector": "S00500/US",
+    "amount": 650338000000
+  },
+  {
+    "sector": "S00600/US",
+    "amount": 348913000000
+  },
+  {
+    "sector": "491000/US",
+    "amount": 7520000000
+  },
+  {
+    "sector": "S00102/US",
+    "amount": 0
+  },
+  {
+    "sector": "GSLGE/US",
+    "amount": 718720000000
+  },
+  {
+    "sector": "GSLGH/US",
+    "amount": 59805000000
+  },
+  {
+    "sector": "GSLGO/US",
+    "amount": 738204000000
+  },
+  {
+    "sector": "S00203/US",
+    "amount": 58679000000
+  },
+  {
+    "sector": "S00401/US",
+    "amount": -14311000000
+  },
+  {
+    "sector": "S00402/US",
+    "amount": -15204000000
+  },
+  {
+    "sector": "S00300/US",
+    "amount": -117363000000
+  },
+  {
+    "sector": "S00900/US",
+    "amount": 2906000000
+  }
+]
