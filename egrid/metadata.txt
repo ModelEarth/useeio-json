@@ -1,0 +1,11 @@
+Run metadata
+
+Repository: https://github.com/USEPA/egrid
+Branch: development
+Commit: 8932a073aa4c0dac227f953e2805d5f64634b57e
+
+EIA data retrieved: 2026-03-11T12:37:00-00:00
+CEMS data retrieved: 2026-03-11T12:31:00-00:00
+Timezone: America/Los_Angeles
+
+Script executed: eGRID_master.qmd
